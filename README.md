@@ -5,7 +5,7 @@ https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
 ## File Description
  - a notebook that contains detail eda + modeling
- - a python script about the training pipeline
+ - a python script contain the whole training pipeline
     
 ## Description
 This is a dataset containing auto insurance data. The goal is to use this dataset to train a model to predict if a drive will initiate a claim(1) or not(0). Training data has 595212 rows and 59 columns(including target and id). 
